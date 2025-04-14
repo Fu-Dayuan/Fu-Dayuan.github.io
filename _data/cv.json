@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Dayuan Fu (傅大源)",
+    "email": "fdy@bupt.edu.cn",
+    "website": "https://fu-dayuan.github.io",
+    "summary": "I am Dayuan Fu, a graduate student at PRIS-NLP Group at Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Weiran Xu. I'm visiting GAIR now, and I visited TsinghuaC3I group from 2022.10 to 2024.8. My research interests primarily focus on LLM Agent's reasoning, planning, and decision-making ability and memory strategy, which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.",
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=8t2DPs0AAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0003-3614-6653"
+      },
+      {
+        "network": "GitHub",
+        "username": "academicpages",
+        "url": "https://github.com/Fu-Dayuan"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Beijing University of Posts and Telecommunications (BUPT)",
+      "area": "M.S. in Dept. of Artificial Intelligence",
+      "studyType": "",
+      "startDate": "2023.9",
+      "endDate": "2023.9-2026.6",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Beijing University of Posts and Telecommunications (BUPT)",
+      "area": "B.S. in Dept. of Electronic Engineering",
+      "studyType": "",
+      "startDate": "2019.9",
+      "endDate": "2019.9-2023.6",
+      "gpa": "93.18/100 (3.88/4.0)",
+      "courses": []
+    }
+  ],
+  "visiting": [
+    {
+      "institution": "Tsinghua University",
+      "area": "C3I Group",
+      "startDate": "2022.10",
+      "endDate": "2024.8"
+    },
+    {
+      "institution": "SII & SJTU",
+      "area": "GAIR",
+      "startDate": "2024.9",
+      "endDate": "Now"
+    }
+  ],
+  "industry": [
+    {
+      "institution": "Meituan, NLP Center",
+      "intern": "Algorithm Intern",
+      "area": "Research Intern on Agent and data synthesis.",
+      "startDate": "2024.1",
+      "endDate": "2025.3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["C++", "Python"]
+    },
+    {
+      "name": "Deep Learning Frameworks",
+      "keywords": ["LLaMA-Factory", "Deepspeed", "ray", "verl"]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Chinese",
+      "level": "Native"
+    },
+    {
+      "name": "English"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
+      "releaseDate": "2025-04-04",
+      "website": "../files/DeepResearcher.pdf"
+    },
+    {
+      "name": "AgentRefine: Enhancing Agent Generalization through Refinement Tuning",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2025-01-03",
+      "website": "../files/agengrefine.pdf"
+    },
+    {
+      "name": "MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making",
+      "publisher": "EMNLP 2024 Main",
+      "releaseDate": "2024-09-25",
+      "website": "../files/msi.pdf"
+    },
+    {
+      "name": "How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data",
+      "publisher": "EMNLP 2024 Main",
+      "releaseDate": "2024-09-03",
+      "website": "../files/xcoder.pdf"
+    },
+    {
+      "name": "CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2024-06-12",
+      "website": "../files/csbench.pdf"
+    },
+    {
+      "name": "PreAct: Prediction Enhances Agent's Planning Ability",
+      "publisher": "Coling 2025",
+      "releaseDate": "2024-02-18",
+      "website": "../files/preact.pdf"
+    },
+    {
+      "name": "On Large Language Models' Hallucination with Regard to Known Facts",
+      "publisher": "NAACL 2024 Main",
+      "releaseDate": "2024-06-12",
+      "website": "../files/Hallucination.pdf"
+    },
+    {
+      "name": "DivTOD: Unleashing the Power of LLMs for Diversifying Task-Oriented Dialogue Representations",
+      "publisher": "NAACL 2024 Findings",
+      "releaseDate": "2024-03-31",
+      "website": "https://arxiv.org/pdf/2404.00557"
+    },
+    {
+      "name": "A multi-task semantic decomposition framework with task-specific pre-training for few-shot ner",
+      "publisher": "CIKM 2023",
+      "releaseDate": "2023-10-21",
+      "website": "https://arxiv.org/pdf/2308.14533"
+    },
+    {
+      "name": "A prototypical semantic decoupling method via joint contrastive learning for few-shot named entity recognition",
+      "publisher": "ICASSP 2023",
+      "releaseDate": "2023-06-04",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10095149/"
+    },
+    {
+      "name": "Revisit out-of-vocabulary problem for slot filling: A unified contrastive framework with multi-level data augmentationss",
+      "publisher": "ICASSP 2023",
+      "releaseDate": "2023-06-04",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10094766"
+    },
+    {
+      "name": "Semi-supervised knowledge-grounded pre-training for task-oriented dialog systems",
+      "publisher": "SereTOD2022, EMNLP 2022 Workshop",
+      "releaseDate": "2022-10-17",
+      "website": "https://arxiv.org/pdf/2210.08873"
+    }
+  ],
+  "honors": [
+    {
+        "title": "Excellent First-class Scholarship for Master Students, BUPT",
+        "year": "2023, 2024"
+    },
+    {
+        "title": "the 1st Award on SereTOD Challenge 2022 track 2",
+        "year": 2022
+    },
+    {
+        "title": "National Scholarship(Top 1%)",
+        "year": 2021
+    },
+    {
+        "title": "First Prize in The Chinese Mathematics Competitions",
+        "year": "2020, 2021, 2022"
+    }
+  ]
+}
