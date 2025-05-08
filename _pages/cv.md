@@ -24,7 +24,7 @@ Work experience
 Visiting
 ======
 
-* GAIR, SII 2025.2-Now
+* GAIR, SII 2024.9-Now
 
 * TsinghuaC3I, Tsinghua University, 2022.9 - 2024.9
   
