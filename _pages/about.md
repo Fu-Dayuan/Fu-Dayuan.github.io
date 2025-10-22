@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM Agent's reasoning, planning, and decision-making ability and memory strategy, which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
+I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
 
 Selected Publication
 ---
@@ -17,7 +17,7 @@ Selected Publication
 
 <a href='https://arxiv.org/pdf/2504.03160'>  <strong>DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments</strong></a >  <br />
 Yuxiang Zheng\*, <strong>Dayuan Fu\*</strong>, Xiangkun Hu\*, Xiaojie Cai, Lyumanshan Ye, Pengrui Lu, Pengfei Liu<br />
-    working in progress
+    EMNLP 2025 Main
     <a href='../files/DeepResearcher.pdf'>[paper]</a > 
     <a href='https://github.com/GAIR-NLP/DeepResearcher'>[code]</a > 
     <a href='https://mp.weixin.qq.com/s/SzLs2ceHTCY_WwhpXPCKoQ'>[机器之心]</a > 

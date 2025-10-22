@@ -3,7 +3,7 @@
     "name": "Dayuan Fu (傅大源)",
     "email": "fdy@bupt.edu.cn",
     "website": "https://fu-dayuan.github.io",
-    "summary": "I am Dayuan Fu, a graduate student at PRIS-NLP Group at Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Weiran Xu. I'm visiting GAIR now, and I visited TsinghuaC3I group from 2022.10 to 2024.8. My research interests primarily focus on LLM Agent's reasoning, planning, and decision-making ability and memory strategy, which can make LLM more universal (i.e. AGI). I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.",
+    "summary": "I am Dayuan Fu, a graduate student at PRIS-NLP Group at Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Weiran Xu. I'm visiting GAIR now, and I visited TsinghuaC3I group from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -90,6 +90,7 @@
   "publications": [
     {
       "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
+      "publisher": "EMNLP 2025 Main",
       "releaseDate": "2025-04-04",
       "website": "../files/DeepResearcher.pdf"
     },
