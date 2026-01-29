@@ -89,6 +89,12 @@
   "references": [],
   "publications": [
     {
+      "name": "InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2025-10-05",
+      "website": "../files/InnovatorBench.pdf"
+    },
+    {
       "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
       "publisher": "EMNLP 2025 Main",
       "releaseDate": "2025-04-04",

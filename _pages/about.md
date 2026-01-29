@@ -15,6 +15,12 @@ Selected Publication
 
 (* denotes equal contributions)<be>
 
+<a href='https://arxiv.org/pdf/2510.27598'>  <strong>InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research</strong></a >  <br />
+Yunze Wu\*, <strong>Dayuan Fu\*</strong> Weiye Si, Zhen Huang, Mohan Jiang, Keyu Li, Shijie Xia, Jie Sun, Tianze Xu, Xiangkun Hu, Pengrui Lu, Xiaojie Cai, Lyumanshan Ye, Wenhong Zhu, Yang Xiao, Pengfei Liu<br />
+    ICLR 2026
+    <a href='../files/InnovatorBench.pdf'>[paper]</a > 
+    <a href='https://github.com/GAIR-NLP/InnovatorBench'>[code]</a > 
+
 <a href='https://arxiv.org/pdf/2504.03160'>  <strong>DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments</strong></a >  <br />
 Yuxiang Zheng\*, <strong>Dayuan Fu\*</strong>, Xiangkun Hu\*, Xiaojie Cai, Lyumanshan Ye, Pengrui Lu, Pengfei Liu<br />
     EMNLP 2025 Main
@@ -62,10 +68,10 @@ Yuxiang Zheng\*, <strong>Dayuan Fu\*</strong>, Xiangkun Hu\*, Xiaojie Cai, Lyuma
     <a href='../files/preact.pdf'>[paper]</a > 
     <a href='https://github.com/Fu-Dayuan/PreAct'>[code]</a > 
   
-<a href='https://aclanthology.org/2024.naacl-long.60/'>  <strong>On Large Language Models' Hallucination with Regard to Known Facts <br /> </strong></a >  <br />
+<!-- <a href='https://aclanthology.org/2024.naacl-long.60/'>  <strong>On Large Language Models' Hallucination with Regard to Known Facts <br /> </strong></a >  <br />
      Che Jiang, Biqing Qi, Xiangyu Hong, <strong>Dayuan Fu</strong>, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou<br />
     NAACL 2024 Main
-    <a href='../files/Hallucination.pdf'>[paper]</a > 
+    <a href='../files/Hallucination.pdf'>[paper]</a >  -->
 
 
 
