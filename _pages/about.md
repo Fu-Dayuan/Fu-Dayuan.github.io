@@ -16,7 +16,7 @@ Selected Publication
 (* denotes equal contributions)<be>
 
 <a href='https://arxiv.org/pdf/2510.27598'>  <strong>InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research</strong></a >  <br />
-Yunze Wu\*, <strong>Dayuan Fu\*</strong> Weiye Si, Zhen Huang, Mohan Jiang, Keyu Li, Shijie Xia, Jie Sun, Tianze Xu, Xiangkun Hu, Pengrui Lu, Xiaojie Cai, Lyumanshan Ye, Wenhong Zhu, Yang Xiao, Pengfei Liu<br />
+Yunze Wu\*, <strong>Dayuan Fu\*</strong>, Weiye Si, Zhen Huang, Mohan Jiang, Keyu Li, Shijie Xia, Jie Sun, Tianze Xu, Xiangkun Hu, Pengrui Lu, Xiaojie Cai, Lyumanshan Ye, Wenhong Zhu, Yang Xiao, Pengfei Liu<br />
     ICLR 2026
     <a href='../files/InnovatorBench.pdf'>[paper]</a > 
     <a href='https://github.com/GAIR-NLP/InnovatorBench'>[code]</a > 
