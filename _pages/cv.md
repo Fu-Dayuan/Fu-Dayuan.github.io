@@ -55,8 +55,12 @@ Service and leadership
 
 Reviewer for
 
-* ICLR 2025
+* ICLR 2025, ICLR 2026
+
+* ICML 2026
 
 * ACL ARR 2024 June, August, October, December
 
-* ACL ARR 2025 February
+* ACL ARR 2025 February, May, October
+
+* ACL ARR 2026 January
