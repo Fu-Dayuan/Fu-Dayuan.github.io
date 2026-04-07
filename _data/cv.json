@@ -131,6 +131,12 @@
       "website": "../files/preact.pdf"
     },
     {
+      "name": "Agencybench: Benchmarking the frontiers of autonomous agents in 1m-token real-world contexts",
+      "publisher": "ACL 2026",
+      "releaseDate": "2026-01-16",
+      "website": "https://arxiv.org/pdf/2601.11044"
+    },
+    {
       "name": "On Large Language Models' Hallucination with Regard to Known Facts",
       "publisher": "NAACL 2024 Main",
       "releaseDate": "2024-06-12",
