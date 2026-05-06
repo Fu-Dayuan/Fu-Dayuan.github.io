@@ -21,6 +21,14 @@ Yunze Wu\*, <strong>Dayuan Fu\*</strong>, Weiye Si, Zhen Huang, Mohan Jiang, Key
     <a href='../files/InnovatorBench.pdf'>[paper]</a > 
     <a href='https://github.com/GAIR-NLP/InnovatorBench'>[code]</a > 
 
+
+<a href='https://arxiv.org/pdf/2601.18418'>  <strong>daVinci-Dev: Agent-native Mid-training for Software Engineering</strong></a >  <br />
+Ji Zeng, <strong>Dayuan Fu</strong>, Tiantian Mi, Zhuang Yumin, Yaxing Huang, Xuefeng Li, Lyumanshan Ye, Muhang Xie, Qishuo Hua, Zhen Huang, Mohan Jiang, Hanning Wang, Jifan Lin, Yang Xiao, Jie Sun, Yunze Wu, Pengfei Liu<br />
+    ICML 2026 spotlight
+    <a href='../files/daVinci-Dev.pdf'>[paper]</a > 
+    <a href='https://huggingface.co/datasets/GAIR/daVinci-Dev'>[dataset]</a > 
+    <a href='https://github.com/GAIR-NLP/daVinci-Dev'>[code]</a > 
+
 <a href='https://arxiv.org/pdf/2504.03160'>  <strong>DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments</strong></a >  <br />
 Yuxiang Zheng\*, <strong>Dayuan Fu\*</strong>, Xiangkun Hu\*, Xiaojie Cai, Lyumanshan Ye, Pengrui Lu, Pengfei Liu<br />
     EMNLP 2025 Main

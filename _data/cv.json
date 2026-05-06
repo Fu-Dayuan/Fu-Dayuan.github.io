@@ -95,6 +95,12 @@
       "website": "../files/InnovatorBench.pdf"
     },
     {
+      "name": "daVinci-Dev: Agent-native Mid-training for Software Engineering",
+      "publisher": "ICML 2026 spotlight",
+      "releaseDate": "2026-01-26",
+      "website": "../files/daVinci-Dev.pdf"
+    },
+    {
       "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
       "publisher": "EMNLP 2025 Main",
       "releaseDate": "2025-04-04",
