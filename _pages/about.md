@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, EMNLP, CIKM, and NAACL.
+I am Dayuan Fu, a graduate student at [PRIS-NLP Group](https://pris-nlp.github.io/en/author/dayuan-fu/) at Beijing University of Posts and Telecommunications (BUPT), supervised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I'm visiting [GAIR](https://plms.ai/people/index.html) now, and I visited [TsinghuaC3I group](https://c3i.ee.tsinghua.edu.cn/author/%E5%82%85%E5%A4%A7%E6%BA%90/) from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, ICML, EMNLP, CIKM, and NAACL.
 
 Selected Publication
 ---
