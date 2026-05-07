@@ -354,5 +354,17 @@
   </div>
   {% endif %}
   
+  {% if cv.reviewerFor.size > 0 %}
+  <!-- Service -->
+  <div class="cv-section">
+    <h2>Service and leadership</h2>
+    <p class="cv-item-detail"><strong>Reviewer for</strong></p>
+    <ul class="cv-list">
+      {% for line in cv.reviewerFor %}
+      <li class="cv-item">{{ line }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 
 </div>

@@ -3,7 +3,7 @@
     "name": "Dayuan Fu (傅大源)",
     "email": "fdy@bupt.edu.cn",
     "website": "https://fu-dayuan.github.io",
-    "summary": "I am Dayuan Fu, a graduate student at PRIS-NLP Group at Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Weiran Xu. I'm visiting GAIR now, and I visited TsinghuaC3I group from 2022.10 to 2024.8. My research interests primarily focus on LLM Agents including both Agent training method and context engineering. I believe it's the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, ICML, EMNLP, CIKM, and NAACL.",
+    "summary": "My research interests primarily focus on LLM Agents automation including both expanding the range of agent applications via agent itself and using agents to discover new Nobel Prize level laws/rules. I believe combining search with powerful LLM is the way to AGI. I have published several papers at prominent NLP conferences, including ICLR, ICML, EMNLP, CIKM, and NAACL.",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -95,22 +95,34 @@
       "website": "../files/InnovatorBench.pdf"
     },
     {
+      "name": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+      "publisher": "working in progress",
+      "releaseDate": "2026-03-13",
+      "website": "../files/daVinci-Env.pdf"
+    },
+    {
       "name": "daVinci-Dev: Agent-native Mid-training for Software Engineering",
       "publisher": "ICML 2026 spotlight",
       "releaseDate": "2026-01-26",
       "website": "../files/daVinci-Dev.pdf"
     },
     {
-      "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
-      "publisher": "EMNLP 2025 Main",
-      "releaseDate": "2025-04-04",
-      "website": "../files/DeepResearcher.pdf"
+      "name": "daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently",
+      "publisher": "working in progress",
+      "releaseDate": "2026-02-02",
+      "website": "../files/daVinci-Agency.pdf"
     },
     {
       "name": "AgentRefine: Enhancing Agent Generalization through Refinement Tuning",
       "publisher": "ICLR 2025",
       "releaseDate": "2025-01-03",
       "website": "../files/agengrefine.pdf"
+    },
+    {
+      "name": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments",
+      "publisher": "EMNLP 2025 Main",
+      "releaseDate": "2025-04-04",
+      "website": "../files/DeepResearcher.pdf"
     },
     {
       "name": "MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making",
@@ -196,5 +208,13 @@
         "title": "First Prize in The Chinese Mathematics Competitions",
         "year": "2020, 2021, 2022"
     }
+  ],
+  "reviewerFor": [
+    "ICLR 2025, ICLR 2026",
+    "ICML 2026",
+    "COLM 2026",
+    "ACL ARR 2024 June, August, October, December",
+    "ACL ARR 2025 February, May, October",
+    "ACL ARR 2026 January, March"
   ]
 }
