@@ -24,7 +24,7 @@ Now, I'm working on the following research topics:
 
 🔥  **News**
 ---
-- 2026-05: 🎉🎉 One papers have been accepted by ICML 2026 Spotlight!
+- 2026-05: 🎉🎉 One papers has been accepted by ICML 2026 Spotlight!
 - 2026-01: 🎉🎉 Two papers have been accepted by ICLR 2026!
 - 2025-09: 🎉🎉 One paper has been accepted by EMNLP 2025!
 - 2025-01: 🎉🎉 Two papers have been accepted by ICLR 2025!
@@ -93,7 +93,7 @@ Yuxiang Zheng\*, <strong>Dayuan Fu\*</strong>, Xiangkun Hu\*, Xiaojie Cai, Lyuma
     Coling 2025
     <a href='../files/preact.pdf'>[paper]</a > 
     <a href='https://github.com/Fu-Dayuan/PreAct'>[code]</a > 
-    
+
 <a href='https://aclanthology.org/2024.emnlp-main.777/'>  <strong>How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with High-Quality Data </strong></a >  <br />
      Yejie Wang\*, Keqing He\*, <strong>Dayuan Fu*</strong>, Zhuoma Gongque, Heyang Xu, Yanxu Chen, Zhexu Wang, Yujia Fu, Guanting Dong, Muxi Diao, Jingang Wang, Mengdi Zhang, Xunliang Cai, Weiran Xu<br />
     EMNLP 2024 Main 
